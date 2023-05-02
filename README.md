@@ -116,7 +116,16 @@ python3 dataset.py -h
 ```
 No parameters are required as defaults are provided. Only the manual download of ieee dataset is needed
 
+
 For testing purposes algorithms are run using dummy information using:
 ```
 python3 algorithms.py 
 ```
+
+To run the created benchmark dataset through given algorithms use benchmark.py
+
+```
+python3 benchmark.py 
+```
+
+Default parameters are given. Paths and other parameters can be changed in settings.py file

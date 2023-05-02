@@ -1,6 +1,7 @@
 *.lock
 Datasets/*
 Benchmark/phase2
+Out/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

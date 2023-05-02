@@ -32,6 +32,7 @@ def sunsal(M, y, x_true):
         val = 0
         sre = e
     print("Sunsal results: ", val, sre)
+    del eng
     return ret, val, sre
 
 
@@ -64,6 +65,7 @@ def sunsal_tv(M, y, x_true, shape):
         val = 0
         sre = e
     print("Sunsal-TV results: ", val, sre)
+    del eng
     return ret, val, sre
 
 
@@ -94,6 +96,7 @@ def sgsnmf(M, y, x_true):
         val = 0
         sre = e
     print("SGSNMF results: ", val, sre)
+    del eng
     return W, H, val, sre
 
 
@@ -124,6 +127,7 @@ def s2wsu(M, y, x_true, shape):
         val = 0
         sre = e
     print("S2WSU results: ", val, sre)
+    del eng
     return ret, val, sre
 
 
@@ -154,6 +158,7 @@ def rsnmf(M, y, x_true):
         val = 0
         sre = e
     print("RSNMF results: ", val, sre)
+    del eng
     return W, H, val, sre
 
 
@@ -184,6 +189,7 @@ def rconmf(M, y, x_true):
         val = 0
         sre = e
     print("R-CoNMF results: ", val, sre)
+    del eng
     return A, X, val, sre
 
 
@@ -226,6 +232,7 @@ def almm(M, y, x_true, L, p, shape):
         val = 0
         sre = e
     print("ALMM results: ", val, sre)
+    del eng
     return res, val, sre
 
 

@@ -12,6 +12,10 @@ benchmark_root = os.path.join(root_folder, "Benchmark")
 # main algorithm folder
 algorithm_root = os.path.join(root_folder, "Algorithms")
 
+# main output folder
+out_root = os.path.join(root_folder, "Out")
+
+
 # usgs library sample folder
 usgs_folder = os.path.join(benchmark_root, "ASCIIdata_splib07b_cvHYPERION")
 usgs_wavelength = os.path.join(benchmark_root, "WL.txt")
