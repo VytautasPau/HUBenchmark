@@ -207,8 +207,8 @@ def main(args):
     if args['resultfolder'] is None:
         args['resultfolder'] = settings.out_root
 
-    # run_exp1(args['outfolder'], args['resultfolder'])
-    # run_exp2(args['outfolder'], args['resultfolder'])
+    run_exp1(args['outfolder'], args['resultfolder'])
+    run_exp2(args['outfolder'], args['resultfolder'])
     run_exp3(args['outfolder'], args['resultfolder'], reduction=2)
     run_exp3(args['outfolder'], args['resultfolder'], reduction=3)
 
