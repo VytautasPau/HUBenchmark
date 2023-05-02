@@ -116,3 +116,7 @@ python3 dataset.py -h
 ```
 No parameters are required as defaults are provided. Only the manual download of ieee dataset is needed
 
+For testing purposes algorithms are run using dummy information using:
+```
+python3 algorithms.py 
+```
