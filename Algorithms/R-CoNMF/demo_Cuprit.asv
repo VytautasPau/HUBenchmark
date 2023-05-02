@@ -1,0 +1,151 @@
+%  demo_Cuprit
+%
+%  This demo illustrates the collaborative hyperspectral unmixing via CoNMF
+%  for the Cuprit data.
+%        
+%         
+%  See
+%
+% J. Li, J. M. Bioucas-Dias, A. Plaza and L. Liu, "Robust Collaborative 
+% Nonnegative Matrix Factorization for Hyperspectral Unmixing," 
+% in IEEE Transactions on Geoscience and Remote Sensing, vol. 54, no. 10, 
+% pp. 6076-6090, Oct. 2016. doi: 10.1109/TGRS.2016.2580702
+%
+%
+%  -----------------------------------------------------------------------
+%
+% Author: Jun Li, Jose Bioucas-Dias, February, November, 2014
+
+
+clear all; close all; clc
+
+% load the cupri
+No_bands = 188;
+load cuprite_ref.mat
+
+[L,n] = size(x);
+
+q = 10;   % estimated number of  endmembers
+
+
+verbose='on';
+noise_type = 'additive';        
+
+[w Rn] = estNoise(x,noise_type,verbose);
+[kf,Ek,E]=hysime(x,w,Rn,1e-5,verbose);    % estimate the p
+
+
+Ek = E(:,1:q);
+Y = Ek'*x; UUp =Ek; 
+
+
+figure(1000)
+[Ahat,Xhat,rerr,L] =  ...
+       conmf(Y,q, ...
+            'POSITIVITY','yes', ...
+            'ALPHA',(1e-8)*sqrt(n), ...     %l_21 regularization parameter
+            'BETA',  10^(-3)*(n*q), ...      %minimum volume regularization parameter
+            'ADDONE','yes', ...
+            'AO_ITERS',30, ...
+            'DELTA', 1e-4,  ...    % (STOP) relative reconstruction error
+            'CSUNSAL_ITERS',100, ...
+            'MU_A', 1e-4*(n*q), ...  %proximity weight for A
+            'MU_X', 1e-1, ...      %proximity weight for X
+            'SPHERIZE', 'no', ...         %{'no','cov', 'M'}
+            'MIN_VOLUME', 'boundary', ...  %{'boundary', 'center', 'totalVar'} 
+            'VERBOSE','no', ...
+            'PLOT_A', 'yes');
+
+
+figure(20)
+plot(UUp*Ahat)
+title( 'Ahat')
+
+figure(40)
+plot(rerr)
+title('Reconstruction error')
+
+
+figure(50)
+plot(L)
+title('Objective function')
+
+
+
+
+for i=1:q
+    figure(100+10*i)
+    imagesc(reshape(Xhat(i,:)',Lines,Columns));
+end
+    
+return
+
+
+show_flag  = 0;    %  
+
+
+sest = sestq;
+
+load USGS_1995_Library                      % load the USGS library
+Areal = datalib;
+Areal([1:2 105:115 150:170 223 224],:) =[];
+
+fullindex=[21:26 226:234 303:315 236:248   179:183  130:131  74:76 291:300 ...
+   324:328 88:94 70:71 84 378:380];
+
+Areal=Areal(:,fullindex);
+namesall = names;
+names = names(fullindex,:);
+
+
+close all
+
+sa =  ToMatrix(sest',[Lines Columns q]);
+SAD = zeros(1,q);
+IndexCoNMF = zeros(1,q);          
+ArealPlot = Areal;
+sa0 = zeros(size(sa));
+
+AestPlot = Aest;
+
+for i =1:q
+    
+result1 = real_evaluation(ArealPlot, AestPlot);
+[minv1 minindex1] = sort(result1);
+[minsad minsadindex] = min(minv1(1,:));
+
+ArealCoNMF(:,i) = ArealPlot(:,minindex1(1,minsadindex));
+IndexCoNMF(i) = minindex1(1,minsadindex);
+ArealCoNMF(:,i) = AestPlot(:,minsadindex);
+AestPlot(:,minsadindex) = 0;
+sa0(:,:,i) = sa(:,:,minsadindex);
+ArealPlot(:,minindex1(1,minsadindex)) = zeros(1,188);
+SAD(i) = minsad;
+
+minindexi = IndexCoNMF(i);
+iM = Aest(:,i);
+  
+    figure
+    imagesc(sa0(:,:,i));
+ text(10, 30, char(names(minindexi,:)),'Fontsize', 12,'fontweight','bold', 'Color', 'r');
+
+
+ text(10, 50, 'SAD:' ,'Fontsize', 12,'fontweight','bold', 'Color', 'r');
+  
+ text(50, 50, num2str(minsad),'Fontsize', 12,'fontweight','bold', 'Color', 'r');
+ 
+colorbar('position',[0.05 0.05 0.02 0.6])
+set(gcf,'Position',[101 101 100+Columns,100+Lines,])
+
+    
+set(gca,'units','pixels','Visible','off'); 
+t=get(gca,'position'); 
+t(1)=0;
+ t(2)=0;
+  set(gcf,'position',t)
+ set(gca,'position',t)
+end
+
+
+
+

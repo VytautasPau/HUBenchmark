@@ -1,0 +1,36 @@
+metadata_version: 1
+name: Spatial Group Sparsity Regularized Nonnegative Matrix Factorization for Hyperspectral
+  Unmixing
+description: In recent years, blind source separation (BSS) has received much attention
+  in the hyperspectral unmixing field due to the fact that it allows the simultaneous
+  estimation of both endmembers and fractional abundances. Although great performances
+  can be obtained by the BSS-based unmixing methods, the decomposition results are
+  still unstable and sensitive to noise. Motivated by the first law of geography,
+  some recent studies have revealed that spatial information can lead to an improvement
+  in the decomposition stability. In this paper, the group-structured prior information
+  of hyperspectral images is incorporated into the nonnegative matrix factorization
+  optimization, where the data are organized into spatial groups. Pixels within a
+  local spatial group are expected to share the same sparse structure in the low-rank
+  matrix (abundance). To fully exploit the group structure, image segmentation is
+  introduced to generate the spatial groups. Instead of a predefined group with a
+  regular shape (e.g., a cross or a square window), the spatial groups are adaptively
+  represented by superpixels. Moreover, the spatial group structure and sparsity of
+  the abundance are integrated as a modified mixed-norm regularization to exploit
+  the shared sparse pattern, and to avoid the loss of spatial details within a spatial
+  group. The experimental results obtained with both simulated and real hyperspectral
+  data confirm the high efficiency and precision of the proposed algorithm.
+tags:
+- hyperspectral-unmixing
+- nonnegative-matrix-factorization
+- group-sparsity
+- blind-source-separation
+authors:
+- name: XInyu Wang
+  affiliations:
+  - name: Wuhan University
+- name: Yanfei Zhong
+  affiliations:
+  - name: Wuhan University
+corresponding_contributor:
+  name: Xinyu Wang
+  email: wangxinyu@whu.edu.cn

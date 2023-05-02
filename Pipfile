@@ -18,6 +18,7 @@ torchvision = "*"
 torchsummary = "*"
 rasterio = "*"
 numba = "*"
+scikit-learn = "*"
 
 [pipenv]
 allow_prereleases = true

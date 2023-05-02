@@ -1,0 +1,1110 @@
+<PAMDataset>
+  <Metadata domain="IMAGE_STRUCTURE">
+    <MDI key="INTERLEAVE">BAND</MDI>
+  </Metadata>
+  <Metadata>
+    <MDI key="Band_1">band 1 refl [%*100] (0.36259000)</MDI>
+    <MDI key="Band_10">band 10 refl [%*100] (0.40903000)</MDI>
+    <MDI key="Band_100">band 100 refl [%*100] (0.87351000)</MDI>
+    <MDI key="Band_101">band 101 refl [%*100] (0.87867000)</MDI>
+    <MDI key="Band_102">band 102 refl [%*100] (0.88383000)</MDI>
+    <MDI key="Band_103">band 103 refl [%*100] (0.88899000)</MDI>
+    <MDI key="Band_104">band 104 refl [%*100] (0.89416000)</MDI>
+    <MDI key="Band_105">band*105 refl [%*100] (0.89931000)</MDI>
+    <MDI key="Band_106">band*106 refl [%*100] (0.90448000)</MDI>
+    <MDI key="Band_107">band*107 refl [%*100] (0.90964000)</MDI>
+    <MDI key="Band_108">band*108 refl [%*100] (0.91480000)</MDI>
+    <MDI key="Band_109">band*109 refl [%*100] (0.91996000)</MDI>
+    <MDI key="Band_11">band 11 refl [%*100] (0.41419000)</MDI>
+    <MDI key="Band_110">band*110 refl [%*100] (0.92512000)</MDI>
+    <MDI key="Band_111">band*111 refl [%*100] (0.93028000)</MDI>
+    <MDI key="Band_112">band*112 refl [%*100] (0.93544000)</MDI>
+    <MDI key="Band_113">band*113 refl [%*100] (0.94060000)</MDI>
+    <MDI key="Band_114">band*114 refl [%*100] (0.94576000)</MDI>
+    <MDI key="Band_115">band*115 refl [%*100] (0.95092000)</MDI>
+    <MDI key="Band_116">band*116 refl [%*100] (0.95609000)</MDI>
+    <MDI key="Band_117">band*117 refl [%*100] (0.96125000)</MDI>
+    <MDI key="Band_118">band*118 refl [%*100] (0.96641000)</MDI>
+    <MDI key="Band_119">band*119 refl [%*100] (0.97157000)</MDI>
+    <MDI key="Band_12">band 12 refl [%*100] (0.41936000)</MDI>
+    <MDI key="Band_120">band*120 refl [%*100] (0.97673000)</MDI>
+    <MDI key="Band_121">band*121 refl [%*100] (0.98189000)</MDI>
+    <MDI key="Band_122">band*122 refl [%*100] (0.98705000)</MDI>
+    <MDI key="Band_123">band*123 refl [%*100] (0.99221000)</MDI>
+    <MDI key="Band_124">band 124 refl [%*100] (0.99737000)</MDI>
+    <MDI key="Band_125">band 125 refl [%*100] (1.0025300)</MDI>
+    <MDI key="Band_126">band 126 refl [%*100] (1.0076900)</MDI>
+    <MDI key="Band_127">band 127 refl [%*100] (1.0128600)</MDI>
+    <MDI key="Band_128">band 128 refl [%*100] (1.0180200)</MDI>
+    <MDI key="Band_13">band 13 refl [%*100] (0.42452000)</MDI>
+    <MDI key="Band_14">band 14 refl [%*100] (0.42968000)</MDI>
+    <MDI key="Band_15">band 15 refl [%*100] (0.43484000)</MDI>
+    <MDI key="Band_16">band 16 refl [%*100] (0.44000000)</MDI>
+    <MDI key="Band_17">band 17 refl [%*100] (0.44516000)</MDI>
+    <MDI key="Band_18">band 18 refl [%*100] (0.45032000)</MDI>
+    <MDI key="Band_19">band 19 refl [%*100] (0.45548000)</MDI>
+    <MDI key="Band_2">band 2 refl [%*100] (0.36775000)</MDI>
+    <MDI key="Band_20">band 20 refl [%*100] (0.46064000)</MDI>
+    <MDI key="Band_21">band 21 refl [%*100] (0.46580000)</MDI>
+    <MDI key="Band_22">band 22 refl [%*100] (0.47096000)</MDI>
+    <MDI key="Band_23">band 23 refl [%*100] (0.47612000)</MDI>
+    <MDI key="Band_24">band 24 refl [%*100] (0.48129000)</MDI>
+    <MDI key="Band_25">band 25 refl [%*100] (0.48645000)</MDI>
+    <MDI key="Band_26">band 26 refl [%*100] (0.49161000)</MDI>
+    <MDI key="Band_27">band 27 refl [%*100] (0.49677000)</MDI>
+    <MDI key="Band_28">band 28 refl [%*100] (0.50193000)</MDI>
+    <MDI key="Band_29">band 29 refl [%*100] (0.50709000)</MDI>
+    <MDI key="Band_3">band 3 refl [%*100] (0.37290000)</MDI>
+    <MDI key="Band_30">band 30 refl [%*100] (0.51225000)</MDI>
+    <MDI key="Band_31">band 31 refl [%*100] (0.51741000)</MDI>
+    <MDI key="Band_32">band 32 refl [%*100] (0.52257000)</MDI>
+    <MDI key="Band_33">band 33 refl [%*100] (0.52773000)</MDI>
+    <MDI key="Band_34">band 34 refl [%*100] (0.53289000)</MDI>
+    <MDI key="Band_35">band 35 refl [%*100] (0.53806000)</MDI>
+    <MDI key="Band_36">band 36 refl [%*100] (0.54321000)</MDI>
+    <MDI key="Band_37">band 37 refl [%*100] (0.54838000)</MDI>
+    <MDI key="Band_38">band 38 refl [%*100] (0.55354000)</MDI>
+    <MDI key="Band_39">band 39 refl [%*100] (0.55870000)</MDI>
+    <MDI key="Band_4">band 4 refl [%*100] (0.37807000)</MDI>
+    <MDI key="Band_40">band 40 refl [%*100] (0.56386000)</MDI>
+    <MDI key="Band_41">band 41 refl [%*100] (0.56902000)</MDI>
+    <MDI key="Band_42">band 42 refl [%*100] (0.57418000)</MDI>
+    <MDI key="Band_43">band 43 refl [%*100] (0.57934000)</MDI>
+    <MDI key="Band_44">band 44 refl [%*100] (0.58450000)</MDI>
+    <MDI key="Band_45">band 45 refl [%*100] (0.58966000)</MDI>
+    <MDI key="Band_46">band 46 refl [%*100] (0.59483000)</MDI>
+    <MDI key="Band_47">band 47 refl [%*100] (0.59999000)</MDI>
+    <MDI key="Band_48">band 48 refl [%*100] (0.60514000)</MDI>
+    <MDI key="Band_49">band 49 refl [%*100] (0.61031000)</MDI>
+    <MDI key="Band_5">band 5 refl [%*100] (0.38323000)</MDI>
+    <MDI key="Band_50">band 50 refl [%*100] (0.61547000)</MDI>
+    <MDI key="Band_51">band 51 refl [%*100] (0.62063000)</MDI>
+    <MDI key="Band_52">band 52 refl [%*100] (0.62579000)</MDI>
+    <MDI key="Band_53">band 53 refl [%*100] (0.63095000)</MDI>
+    <MDI key="Band_54">band 54 refl [%*100] (0.63611000)</MDI>
+    <MDI key="Band_55">band 55 refl [%*100] (0.64127000)</MDI>
+    <MDI key="Band_56">band 56 refl [%*100] (0.64643000)</MDI>
+    <MDI key="Band_57">band 57 refl [%*100] (0.65159000)</MDI>
+    <MDI key="Band_58">band 58 refl [%*100] (0.65675000)</MDI>
+    <MDI key="Band_59">band 59 refl [%*100] (0.66192000)</MDI>
+    <MDI key="Band_6">band 6 refl [%*100] (0.38839000)</MDI>
+    <MDI key="Band_60">band 60 refl [%*100] (0.66707000)</MDI>
+    <MDI key="Band_61">band 61 refl [%*100] (0.67224000)</MDI>
+    <MDI key="Band_62">band 62 refl [%*100] (0.67740000)</MDI>
+    <MDI key="Band_63">band 63 refl [%*100] (0.68256000)</MDI>
+    <MDI key="Band_64">band 64 refl [%*100] (0.68772000)</MDI>
+    <MDI key="Band_65">band* 65 refl [%*100] (0.69288000)</MDI>
+    <MDI key="Band_66">band* 66 refl [%*100] (0.69804000)</MDI>
+    <MDI key="Band_67">band* 67 refl [%*100] (0.70320000)</MDI>
+    <MDI key="Band_68">band* 68 refl [%*100] (0.70836000)</MDI>
+    <MDI key="Band_69">band* 69 refl [%*100] (0.71352000)</MDI>
+    <MDI key="Band_7">band 7 refl [%*100] (0.39355000)</MDI>
+    <MDI key="Band_70">band* 70 refl [%*100] (0.71868000)</MDI>
+    <MDI key="Band_71">band* 71 refl [%*100] (0.72385000)</MDI>
+    <MDI key="Band_72">band* 72 refl [%*100] (0.72901000)</MDI>
+    <MDI key="Band_73">band* 73 refl [%*100] (0.73417000)</MDI>
+    <MDI key="Band_74">band* 74 refl [%*100] (0.73933000)</MDI>
+    <MDI key="Band_75">band 75 refl [%*100] (0.74449000)</MDI>
+    <MDI key="Band_76">band 76 refl [%*100] (0.74965000)</MDI>
+    <MDI key="Band_77">band* 77 refl [%*100] (0.75481000)</MDI>
+    <MDI key="Band_78">band* 78 refl [%*100] (0.75997000)</MDI>
+    <MDI key="Band_79">band* 79 refl [%*100] (0.76513000)</MDI>
+    <MDI key="Band_8">band 8 refl [%*100] (0.39871000)</MDI>
+    <MDI key="Band_80">band* 80 refl [%*100] (0.77029000)</MDI>
+    <MDI key="Band_81">band 81 refl [%*100] (0.77545000)</MDI>
+    <MDI key="Band_82">band 82 refl [%*100] (0.78061000)</MDI>
+    <MDI key="Band_83">band 83 refl [%*100] (0.78578000)</MDI>
+    <MDI key="Band_84">band* 84 refl [%*100] (0.79094000)</MDI>
+    <MDI key="Band_85">band* 85 refl [%*100] (0.79610000)</MDI>
+    <MDI key="Band_86">band* 86 refl [%*100] (0.80126000)</MDI>
+    <MDI key="Band_87">band* 87 refl [%*100] (0.80642000)</MDI>
+    <MDI key="Band_88">band* 88 refl [%*100] (0.81158000)</MDI>
+    <MDI key="Band_89">band* 89 refl [%*100] (0.81674000)</MDI>
+    <MDI key="Band_9">band 9 refl [%*100] (0.40387000)</MDI>
+    <MDI key="Band_90">band* 90 refl [%*100] (0.82190000)</MDI>
+    <MDI key="Band_91">band* 91 refl [%*100] (0.82706000)</MDI>
+    <MDI key="Band_92">band* 92 refl [%*100] (0.83223000)</MDI>
+    <MDI key="Band_93">band* 93 refl [%*100] (0.83738000)</MDI>
+    <MDI key="Band_94">band 94 refl [%*100] (0.84254000)</MDI>
+    <MDI key="Band_95">band 95 refl [%*100] (0.84771000)</MDI>
+    <MDI key="Band_96">band 96 refl [%*100] (0.85287000)</MDI>
+    <MDI key="Band_97">band 97 refl [%*100] (0.85803000)</MDI>
+    <MDI key="Band_98">band 98 refl [%*100] (0.86319000)</MDI>
+    <MDI key="Band_99">band 99 refl [%*100] (0.86835000)</MDI>
+  </Metadata>
+  <Metadata domain="ENVI">
+    <MDI key="bands">128</MDI>
+    <MDI key="band_names">{band 1 refl [%*100],band 2 refl [%*100],band 3 refl [%*100],band 4 refl [%*100],band 5 refl [%*100],band 6 refl [%*100],band 7 refl [%*100],band 8 refl [%*100],band 9 refl [%*100],band 10 refl [%*100],band 11 refl [%*100],band 12 refl [%*100],band 13 refl [%*100],band 14 refl [%*100],band 15 refl [%*100],band 16 refl [%*100],band 17 refl [%*100],band 18 refl [%*100],band 19 refl [%*100],band 20 refl [%*100],band 21 refl [%*100],band 22 refl [%*100],band 23 refl [%*100],band 24 refl [%*100],band 25 refl [%*100],band 26 refl [%*100],band 27 refl [%*100],band 28 refl [%*100],band 29 refl [%*100],band 30 refl [%*100],band 31 refl [%*100],band 32 refl [%*100],band 33 refl [%*100],band 34 refl [%*100],band 35 refl [%*100],band 36 refl [%*100],band 37 refl [%*100],band 38 refl [%*100],band 39 refl [%*100],band 40 refl [%*100],band 41 refl [%*100],band 42 refl [%*100],band 43 refl [%*100],band 44 refl [%*100],band 45 refl [%*100],band 46 refl [%*100],band 47 refl [%*100],band 48 refl [%*100],band 49 refl [%*100],band 50 refl [%*100],band 51 refl [%*100],band 52 refl [%*100],band 53 refl [%*100],band 54 refl [%*100],band 55 refl [%*100],band 56 refl [%*100],band 57 refl [%*100],band 58 refl [%*100],band 59 refl [%*100],band 60 refl [%*100],band 61 refl [%*100],band 62 refl [%*100],band 63 refl [%*100],band 64 refl [%*100],band* 65 refl [%*100],band* 66 refl [%*100],band* 67 refl [%*100],band* 68 refl [%*100],band* 69 refl [%*100],band* 70 refl [%*100],band* 71 refl [%*100],band* 72 refl [%*100],band* 73 refl [%*100],band* 74 refl [%*100],band 75 refl [%*100],band 76 refl [%*100],band* 77 refl [%*100],band* 78 refl [%*100],band* 79 refl [%*100],band* 80 refl [%*100],band 81 refl [%*100],band 82 refl [%*100],band 83 refl [%*100],band* 84 refl [%*100],band* 85 refl [%*100],band* 86 refl [%*100],band* 87 refl [%*100],band* 88 refl [%*100],band* 89 refl [%*100],band* 90 refl [%*100],band* 91 refl [%*100],band* 92 refl [%*100],band* 93 refl [%*100],band 94 refl [%*100],band 95 refl [%*100],band 96 refl [%*100],band 97 refl [%*100],band 98 refl [%*100],band 99 refl [%*100],band 100 refl [%*100],band 101 refl [%*100],band 102 refl [%*100],band 103 refl [%*100],band 104 refl [%*100],band*105 refl [%*100],band*106 refl [%*100],band*107 refl [%*100],band*108 refl [%*100],band*109 refl [%*100],band*110 refl [%*100],band*111 refl [%*100],band*112 refl [%*100],band*113 refl [%*100],band*114 refl [%*100],band*115 refl [%*100],band*116 refl [%*100],band*117 refl [%*100],band*118 refl [%*100],band*119 refl [%*100],band*120 refl [%*100],band*121 refl [%*100],band*122 refl [%*100],band*123 refl [%*100],band 124 refl [%*100],band 125 refl [%*100],band 126 refl [%*100],band 127 refl [%*100],band 128 refl [%*100]}</MDI>
+    <MDI key="byte_order">0</MDI>
+    <MDI key="data_ignore_value">15000.0</MDI>
+    <MDI key="data_type">2</MDI>
+    <MDI key="description">{Hyperspectral data taken over Chikusei, Japan}</MDI>
+    <MDI key="file_type">Other</MDI>
+    <MDI key="fwhm">{0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000, 0.0051600000}</MDI>
+    <MDI key="header_offset">0</MDI>
+    <MDI key="interleave">BSQ</MDI>
+    <MDI key="lines">240</MDI>
+    <MDI key="reflectance_scale_factor">10000.0</MDI>
+    <MDI key="samples">240</MDI>
+    <MDI key="wavelength">{0.36259000, 0.36775000, 0.37290000, 0.37807000, 0.38323000, 0.38839000, 0.39355000, 0.39871000, 0.40387000, 0.40903000, 0.41419000, 0.41936000, 0.42452000, 0.42968000, 0.43484000, 0.44000000, 0.44516000, 0.45032000, 0.45548000, 0.46064000, 0.46580000, 0.47096000, 0.47612000, 0.48129000, 0.48645000, 0.49161000, 0.49677000, 0.50193000, 0.50709000, 0.51225000, 0.51741000, 0.52257000, 0.52773000, 0.53289000, 0.53806000, 0.54321000, 0.54838000, 0.55354000, 0.55870000, 0.56386000, 0.56902000, 0.57418000, 0.57934000, 0.58450000, 0.58966000, 0.59483000, 0.59999000, 0.60514000, 0.61031000, 0.61547000, 0.62063000, 0.62579000, 0.63095000, 0.63611000, 0.64127000, 0.64643000, 0.65159000, 0.65675000, 0.66192000, 0.66707000, 0.67224000, 0.67740000, 0.68256000, 0.68772000, 0.69288000, 0.69804000, 0.70320000, 0.70836000, 0.71352000, 0.71868000, 0.72385000, 0.72901000, 0.73417000, 0.73933000, 0.74449000, 0.74965000, 0.75481000, 0.75997000, 0.76513000, 0.77029000, 0.77545000, 0.78061000, 0.78578000, 0.79094000, 0.79610000, 0.80126000, 0.80642000, 0.81158000, 0.81674000, 0.82190000, 0.82706000, 0.83223000, 0.83738000, 0.84254000, 0.84771000, 0.85287000, 0.85803000, 0.86319000, 0.86835000, 0.87351000, 0.87867000, 0.88383000, 0.88899000, 0.89416000, 0.89931000, 0.90448000, 0.90964000, 0.91480000, 0.91996000, 0.92512000, 0.93028000, 0.93544000, 0.94060000, 0.94576000, 0.95092000, 0.95609000, 0.96125000, 0.96641000, 0.97157000, 0.97673000, 0.98189000, 0.98705000, 0.99221000, 0.99737000, 1.0025300, 1.0076900, 1.0128600, 1.0180200}</MDI>
+    <MDI key="x_start">1</MDI>
+    <MDI key="y_start">1</MDI>
+    <MDI key="z_plot_titles">{ wavelength [micrometer], reflectance [%*100] }</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Description>band 1 refl [%*100] (0.36259000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Histograms>
+      <HistItem>
+        <HistMin>-0.4993429697766097</HistMin>
+        <HistMax>760.4993429697766</HistMax>
+        <BucketCount>761</BucketCount>
+        <IncludeOutOfRange>0</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>1346|186|249|231|228|237|320|273|296|309|315|294|359|319|364|355|387|350|388|364|423|385|384|399|399|425|402|402|419|420|428|465|422|428|467|385|448|428|405|417|415|431|429|438|424|419|435|451|419|427|464|407|430|393|436|386|418|377|389|396|400|393|385|382|371|414|363|405|383|382|390|375|355|361|401|340|363|331|349|347|393|313|344|303|385|336|341|317|336|327|333|303|320|321|310|271|332|312|293|301|289|305|255|246|296|280|252|255|295|261|253|245|278|244|257|234|238|249|232|223|218|232|223|232|217|209|203|197|220|215|204|215|181|186|198|192|171|171|161|177|171|150|153|159|150|155|182|160|134|147|161|152|144|139|109|136|129|149|127|120|132|115|113|122|133|116|108|96|117|115|110|100|110|126|99|99|87|88|106|87|87|82|81|75|99|64|84|81|72|69|82|71|67|59|75|66|59|71|43|58|73|52|60|52|58|55|56|55|48|51|73|38|62|36|52|40|44|47|47|47|37|43|46|46|44|54|36|41|40|40|39|40|38|35|37|29|30|33|33|28|34|25|25|27|32|33|27|29|17|34|28|30|33|28|22|21|27|14|19|20|24|24|23|25|20|22|19|27|19|14|16|22|26|24|17|14|12|13|20|19|12|14|19|10|18|13|22|11|13|18|11|19|13|16|10|15|11|15|10|12|9|16|13|17|12|14|19|14|13|12|17|14|10|9|7|11|5|8|14|7|6|9|5|8|9|8|9|4|9|8|8|12|10|3|7|9|7|10|9|5|3|7|7|9|7|3|8|4|6|11|4|5|9|6|5|1|7|5|2|5|5|4|9|5|9|4|0|6|3|3|3|3|3|11|6|9|9|4|7|3|1|3|3|3|3|5|1|6|4|2|4|4|9|4|6|4|4|1|5|5|2|1|4|3|2|2|4|2|0|5|1|4|1|3|3|2|6|2|0|3|3|1|3|3|0|1|7|2|2|2|1|1|0|1|3|2|1|3|4|2|1|1|0|0|3|2|1|0|1|1|1|2|1|0|1|0|1|0|1|1|0|2|2|1|1|2|3|1|1|1|0|0|1|1|1|3|2|1|3|2|3|2|2|3|1|0|0|1|1|1|1|1|1|3|0|2|1|2|2|0|0|2|0|0|1|2|0|0|1|0|3|1|1|1|0|0|1|0|0|0|0|1|1|1|0|1|0|0|1|0|0|1|0|2|1|2|0|2|1|0|1|0|0|0|1|0|0|1|0|0|0|1|0|0|1|3|0|2|1|0|0|1|1|0|1|0|0|0|0|0|1|1|0|1|2|1|0|0|1|0|0|0|0|0|0|2|1|0|0|0|1|0|0|1|1|0|0|0|1|1|0|0|1|1|0|0|0|0|0|0|0|0|0|1|1|1|0|1|0|0|1|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|1|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|1|0|0|0|0|0|0|0|0|1|0|1|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1</HistCounts>
+      </HistItem>
+    </Histograms>
+    <Metadata>
+      <MDI key="STATISTICS_MAXIMUM">760</MDI>
+      <MDI key="STATISTICS_MEAN">87.653576388889</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_STDDEV">71.024412306329</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+      <MDI key="wavelength">0.36259000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="2">
+    <Description>band 2 refl [%*100] (0.36775000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Histograms>
+      <HistItem>
+        <HistMin>55.283</HistMin>
+        <HistMax>1490.717</HistMax>
+        <BucketCount>1000</BucketCount>
+        <IncludeOutOfRange>0</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>1|1|0|0|0|0|1|0|2|1|12|3|4|12|5|22|8|29|16|23|55|39|88|37|132|67|185|109|103|271|142|304|168|371|194|194|513|294|597|289|685|360|796|398|403|913|461|918|515|990|536|568|1046|557|1110|562|1125|579|539|1116|563|1099|546|1121|507|1174|550|552|1140|528|1083|509|995|481|517|998|428|964|449|898|415|420|812|415|853|432|725|392|727|331|358|646|312|603|306|577|261|267|527|253|463|233|455|232|430|213|175|357|180|356|173|318|160|165|315|124|280|128|251|118|110|231|105|200|109|180|96|183|81|73|173|79|168|77|123|72|75|153|71|121|50|126|66|60|137|68|134|57|108|45|123|62|48|108|52|109|49|120|38|40|95|40|94|44|90|57|102|44|60|101|49|94|47|72|47|40|74|42|76|55|86|39|34|82|38|80|46|58|36|61|31|35|49|40|59|27|63|34|27|60|25|36|19|47|24|29|43|29|51|21|38|17|41|19|19|25|16|38|15|32|17|11|29|13|29|15|31|9|16|18|14|20|11|22|14|29|10|11|15|8|13|10|23|8|10|17|16|17|9|16|11|19|7|9|20|4|16|7|12|8|9|10|8|11|8|21|8|12|12|7|8|16|15|12|11|8|3|12|7|17|9|14|6|8|11|10|17|11|17|10|10|18|9|11|14|13|7|12|5|8|14|5|18|6|16|6|5|11|8|10|6|5|6|8|5|7|14|3|17|2|13|6|9|9|7|14|4|9|7|9|8|5|10|4|5|6|7|10|4|6|9|10|5|10|1|2|11|7|15|2|3|3|8|9|6|9|5|7|5|7|1|6|11|5|15|5|13|5|0|9|7|6|2|11|2|8|3|4|7|2|6|3|5|4|4|14|8|7|3|9|4|5|10|3|7|5|8|6|8|2|5|7|4|5|3|6|4|3|7|1|5|4|7|3|6|4|2|4|3|5|2|6|6|3|5|4|10|2|5|2|3|9|3|7|3|4|3|6|4|3|6|4|0|2|5|2|3|6|2|4|0|0|7|1|4|2|1|0|4|1|1|1|1|1|6|4|1|2|1|1|2|1|5|2|2|2|3|2|2|3|2|3|3|3|0|0|2|2|5|0|4|0|3|1|0|1|1|5|0|1|1|2|2|1|3|2|2|1|1|4|1|1|3|0|0|1|3|2|2|4|1|1|3|1|0|1|0|2|0|2|1|1|4|1|3|2|3|1|3|2|0|2|2|4|1|2|1|1|3|0|2|0|1|0|2|1|0|1|0|1|0|2|3|1|4|0|1|0|2|1|1|1|1|0|1|1|1|1|1|1|2|1|0|0|1|2|1|1|0|0|0|2|1|0|1|1|2|0|1|1|1|2|1|1|1|1|0|1|0|0|1|1|0|0|2|0|0|1|2|1|0|0|1|1|1|0|1|1|1|0|1|0|1|0|2|0|1|2|0|2|0|1|0|0|1|0|0|1|0|0|1|1|0|0|1|0|1|0|1|0|0|0|0|0|1|1|0|4|0|0|1|0|0|0|1|2|3|0|0|0|0|0|1|0|0|1|0|1|0|0|0|0|1|0|2|2|1|1|1|1|0|1|1|0|0|2|1|2|0|0|0|0|0|0|0|0|0|0|2|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|1|0|2|0|0|2|0|3|0|1|0|0|0|0|1|0|1|2|0|0|0|0|0|0|0|1|0|0|1|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|2|0|2|0|0|1|0|1|1|0|0|0|0|1|0|0|0|0|1|1|1|0|0|1|0|0|0|0|1|0|0|0|1|0|0|0|0|0|0|0|0|0|0|1|0|0|1|1|0|2|1|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|1|1|0|0|0|0|0|0|0|0|0|0|0|0|0|2|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|1|0|0|0|2|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|1|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|1</HistCounts>
+      </HistItem>
+    </Histograms>
+    <Metadata>
+      <MDI key="STATISTICS_MAXIMUM">1490</MDI>
+      <MDI key="STATISTICS_MEAN">185.52532986111</MDI>
+      <MDI key="STATISTICS_MINIMUM">56</MDI>
+      <MDI key="STATISTICS_STDDEV">98.999273728024</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+      <MDI key="wavelength">0.36775000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="3">
+    <Description>band 3 refl [%*100] (0.37290000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Histograms>
+      <HistItem>
+        <HistMin>74.077</HistMin>
+        <HistMax>1921.923</HistMax>
+        <BucketCount>1000</BucketCount>
+        <IncludeOutOfRange>0</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>1|0|0|0|1|2|2|2|6|6|5|14|11|8|18|32|34|42|77|92|52|108|123|166|184|204|140|302|353|400|415|470|603|290|620|684|732|879|869|512|964|1004|1065|1101|1200|1210|601|1269|1184|1221|1220|1171|1161|590|1191|1141|1087|1097|1097|494|934|956|897|824|798|757|363|741|734|647|647|661|334|575|567|510|536|501|491|233|441|375|376|396|410|171|377|333|324|308|299|296|129|240|264|222|213|196|224|74|178|172|141|159|166|69|147|126|160|139|128|87|54|94|94|96|80|97|52|107|94|100|100|95|82|41|87|85|75|62|80|36|80|54|56|58|77|57|28|58|64|76|74|62|78|33|61|71|61|65|62|24|67|61|76|92|72|64|28|84|68|60|81|68|34|82|77|87|79|67|60|38|60|58|75|72|64|32|59|68|54|63|52|59|23|55|50|41|49|45|45|10|46|40|33|34|45|17|47|26|38|33|29|30|26|27|16|33|26|21|13|24|15|23|24|13|22|6|23|18|16|18|18|5|21|21|19|13|20|11|7|14|13|15|20|12|12|6|13|10|9|14|11|4|7|7|11|10|15|14|5|7|14|9|6|11|3|13|11|10|18|7|15|5|12|14|12|9|13|3|15|14|9|14|9|10|12|5|10|14|12|14|14|7|15|10|14|8|12|4|7|10|7|5|8|13|5|10|13|15|16|9|3|10|8|9|10|5|5|4|7|10|9|11|5|2|7|9|14|7|8|5|3|6|6|6|9|9|3|5|6|7|10|8|8|0|14|6|4|9|9|4|3|11|4|5|9|10|2|8|4|4|8|6|10|1|8|4|8|8|5|4|10|3|5|9|6|6|4|4|6|5|6|11|6|7|7|4|1|8|5|1|7|6|4|3|7|3|1|3|6|7|8|6|3|4|4|6|8|10|3|5|4|6|1|5|10|1|5|6|5|6|2|4|2|6|5|5|3|3|6|1|4|5|8|1|3|3|6|2|3|6|3|8|2|2|6|5|4|1|5|4|4|2|2|0|3|2|2|1|0|2|7|1|5|1|1|2|3|3|3|5|0|0|2|1|2|3|6|0|2|2|0|0|3|3|1|1|2|0|2|5|3|2|0|2|2|1|4|3|1|3|3|3|1|2|2|2|2|1|1|0|0|1|5|1|0|3|0|1|3|0|0|1|2|0|1|2|4|0|4|1|1|1|2|0|2|1|0|1|1|3|0|4|2|1|0|2|0|2|1|0|2|1|1|1|0|1|3|1|2|3|0|0|4|2|0|3|2|1|1|1|2|2|1|0|0|3|0|2|0|1|1|0|2|1|2|3|0|0|0|1|3|1|0|0|1|0|1|0|1|2|2|2|0|0|3|1|0|1|1|0|2|0|1|0|1|1|1|1|3|0|0|1|1|0|1|0|0|0|1|1|0|0|0|0|0|1|0|1|1|0|1|1|1|1|1|1|0|1|1|1|0|2|1|3|0|0|3|1|4|1|1|0|3|0|3|0|1|1|0|1|0|0|1|1|0|0|0|0|0|0|0|0|1|0|0|0|2|0|0|1|0|1|0|1|0|0|0|1|0|3|0|1|0|4|3|0|0|0|1|0|1|0|2|1|1|1|0|0|2|0|0|0|0|0|0|0|0|0|1|1|0|0|0|1|0|1|0|0|1|1|0|0|0|1|1|0|1|0|1|0|0|0|0|0|0|1|1|0|0|0|0|1|0|0|0|0|0|1|0|0|0|0|0|0|0|0|1|0|0|1|0|0|0|0|0|0|2|0|0|1|1|0|1|0|0|0|0|1|1|0|0|1|1|0|1|0|0|1|1|0|0|1|0|0|1|0|0|0|0|0|1|0|0|0|0|0|0|1|0|0|0|0|0|1|0|0|0|0|0|1|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|1|0|0|1|1|0|0|0|0|0|2|0|0|0|0|0|0|0|0|0|0|0|0|0|2|0|1|0|0|1|0|1|0|1|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|1|0|0|1|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|1</HistCounts>
+      </HistItem>
+    </Histograms>
+    <Metadata>
+      <MDI key="STATISTICS_MAXIMUM">1921</MDI>
+      <MDI key="STATISTICS_MEAN">219.83619791667</MDI>
+      <MDI key="STATISTICS_MINIMUM">75</MDI>
+      <MDI key="STATISTICS_STDDEV">128.58913355946</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+      <MDI key="wavelength">0.37290000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="4">
+    <Description>band 4 refl [%*100] (0.37807000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="STATISTICS_MAXIMUM">2362</MDI>
+      <MDI key="STATISTICS_MEAN">264.06730902778</MDI>
+      <MDI key="STATISTICS_MINIMUM">97</MDI>
+      <MDI key="STATISTICS_STDDEV">160.89942047033</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+      <MDI key="wavelength">0.37807000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="5">
+    <Description>band 5 refl [%*100] (0.38323000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.38323000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="6">
+    <Description>band 6 refl [%*100] (0.38839000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.38839000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="7">
+    <Description>band 7 refl [%*100] (0.39355000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.39355000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="8">
+    <Description>band 8 refl [%*100] (0.39871000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.39871000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="9">
+    <Description>band 9 refl [%*100] (0.40387000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.40387000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="10">
+    <Description>band 10 refl [%*100] (0.40903000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.40903000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="11">
+    <Description>band 11 refl [%*100] (0.41419000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.41419000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="12">
+    <Description>band 12 refl [%*100] (0.41936000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.41936000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="13">
+    <Description>band 13 refl [%*100] (0.42452000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.42452000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="14">
+    <Description>band 14 refl [%*100] (0.42968000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.42968000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="15">
+    <Description>band 15 refl [%*100] (0.43484000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.43484000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="16">
+    <Description>band 16 refl [%*100] (0.44000000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.44000000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="17">
+    <Description>band 17 refl [%*100] (0.44516000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.44516000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="18">
+    <Description>band 18 refl [%*100] (0.45032000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.45032000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="19">
+    <Description>band 19 refl [%*100] (0.45548000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.45548000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="20">
+    <Description>band 20 refl [%*100] (0.46064000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.46064000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="21">
+    <Description>band 21 refl [%*100] (0.46580000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.46580000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="22">
+    <Description>band 22 refl [%*100] (0.47096000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.47096000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="23">
+    <Description>band 23 refl [%*100] (0.47612000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.47612000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="24">
+    <Description>band 24 refl [%*100] (0.48129000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.48129000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="25">
+    <Description>band 25 refl [%*100] (0.48645000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.48645000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="26">
+    <Description>band 26 refl [%*100] (0.49161000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.49161000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="27">
+    <Description>band 27 refl [%*100] (0.49677000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.49677000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="28">
+    <Description>band 28 refl [%*100] (0.50193000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.50193000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="29">
+    <Description>band 29 refl [%*100] (0.50709000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.50709000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="30">
+    <Description>band 30 refl [%*100] (0.51225000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.51225000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="31">
+    <Description>band 31 refl [%*100] (0.51741000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.51741000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="32">
+    <Description>band 32 refl [%*100] (0.52257000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.52257000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="33">
+    <Description>band 33 refl [%*100] (0.52773000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.52773000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="34">
+    <Description>band 34 refl [%*100] (0.53289000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.53289000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="35">
+    <Description>band 35 refl [%*100] (0.53806000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.53806000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="36">
+    <Description>band 36 refl [%*100] (0.54321000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.54321000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="37">
+    <Description>band 37 refl [%*100] (0.54838000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.54838000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="38">
+    <Description>band 38 refl [%*100] (0.55354000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.55354000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="39">
+    <Description>band 39 refl [%*100] (0.55870000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.55870000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="40">
+    <Description>band 40 refl [%*100] (0.56386000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.56386000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="41">
+    <Description>band 41 refl [%*100] (0.56902000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.56902000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="42">
+    <Description>band 42 refl [%*100] (0.57418000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.57418000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="43">
+    <Description>band 43 refl [%*100] (0.57934000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.57934000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="44">
+    <Description>band 44 refl [%*100] (0.58450000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.58450000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="45">
+    <Description>band 45 refl [%*100] (0.58966000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.58966000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="46">
+    <Description>band 46 refl [%*100] (0.59483000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.59483000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="47">
+    <Description>band 47 refl [%*100] (0.59999000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.59999000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="48">
+    <Description>band 48 refl [%*100] (0.60514000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.60514000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="49">
+    <Description>band 49 refl [%*100] (0.61031000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.61031000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="50">
+    <Description>band 50 refl [%*100] (0.61547000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.61547000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="51">
+    <Description>band 51 refl [%*100] (0.62063000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.62063000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="52">
+    <Description>band 52 refl [%*100] (0.62579000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.62579000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="53">
+    <Description>band 53 refl [%*100] (0.63095000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.63095000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="54">
+    <Description>band 54 refl [%*100] (0.63611000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.63611000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="55">
+    <Description>band 55 refl [%*100] (0.64127000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.64127000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="56">
+    <Description>band 56 refl [%*100] (0.64643000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.64643000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="57">
+    <Description>band 57 refl [%*100] (0.65159000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.65159000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="58">
+    <Description>band 58 refl [%*100] (0.65675000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.65675000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="59">
+    <Description>band 59 refl [%*100] (0.66192000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.66192000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="60">
+    <Description>band 60 refl [%*100] (0.66707000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.66707000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="61">
+    <Description>band 61 refl [%*100] (0.67224000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.67224000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="62">
+    <Description>band 62 refl [%*100] (0.67740000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.67740000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="63">
+    <Description>band 63 refl [%*100] (0.68256000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="STATISTICS_MAXIMUM">5958</MDI>
+      <MDI key="STATISTICS_MEAN">484.19059027778</MDI>
+      <MDI key="STATISTICS_MINIMUM">30</MDI>
+      <MDI key="STATISTICS_STDDEV">551.48653506939</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+      <MDI key="wavelength">0.68256000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="64">
+    <Description>band 64 refl [%*100] (0.68772000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.68772000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="65">
+    <Description>band* 65 refl [%*100] (0.69288000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.69288000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="66">
+    <Description>band* 66 refl [%*100] (0.69804000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.69804000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="67">
+    <Description>band* 67 refl [%*100] (0.70320000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.70320000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="68">
+    <Description>band* 68 refl [%*100] (0.70836000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.70836000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="69">
+    <Description>band* 69 refl [%*100] (0.71352000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.71352000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="70">
+    <Description>band* 70 refl [%*100] (0.71868000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.71868000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="71">
+    <Description>band* 71 refl [%*100] (0.72385000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.72385000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="72">
+    <Description>band* 72 refl [%*100] (0.72901000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.72901000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="73">
+    <Description>band* 73 refl [%*100] (0.73417000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.73417000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="74">
+    <Description>band* 74 refl [%*100] (0.73933000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.73933000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="75">
+    <Description>band 75 refl [%*100] (0.74449000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.74449000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="76">
+    <Description>band 76 refl [%*100] (0.74965000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.74965000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="77">
+    <Description>band* 77 refl [%*100] (0.75481000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.75481000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="78">
+    <Description>band* 78 refl [%*100] (0.75997000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.75997000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="79">
+    <Description>band* 79 refl [%*100] (0.76513000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.76513000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="80">
+    <Description>band* 80 refl [%*100] (0.77029000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.77029000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="81">
+    <Description>band 81 refl [%*100] (0.77545000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.77545000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="82">
+    <Description>band 82 refl [%*100] (0.78061000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.78061000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="83">
+    <Description>band 83 refl [%*100] (0.78578000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.78578000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="84">
+    <Description>band* 84 refl [%*100] (0.79094000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.79094000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="85">
+    <Description>band* 85 refl [%*100] (0.79610000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.79610000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="86">
+    <Description>band* 86 refl [%*100] (0.80126000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.80126000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="87">
+    <Description>band* 87 refl [%*100] (0.80642000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.80642000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="88">
+    <Description>band* 88 refl [%*100] (0.81158000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.81158000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="89">
+    <Description>band* 89 refl [%*100] (0.81674000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.81674000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="90">
+    <Description>band* 90 refl [%*100] (0.82190000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.82190000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="91">
+    <Description>band* 91 refl [%*100] (0.82706000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.82706000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="92">
+    <Description>band* 92 refl [%*100] (0.83223000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.83223000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="93">
+    <Description>band* 93 refl [%*100] (0.83738000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.83738000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="94">
+    <Description>band 94 refl [%*100] (0.84254000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.84254000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="95">
+    <Description>band 95 refl [%*100] (0.84771000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.84771000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="96">
+    <Description>band 96 refl [%*100] (0.85287000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.85287000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="97">
+    <Description>band 97 refl [%*100] (0.85803000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.85803000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="98">
+    <Description>band 98 refl [%*100] (0.86319000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.86319000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="99">
+    <Description>band 99 refl [%*100] (0.86835000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.86835000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="100">
+    <Description>band 100 refl [%*100] (0.87351000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.87351000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="101">
+    <Description>band 101 refl [%*100] (0.87867000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.87867000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="102">
+    <Description>band 102 refl [%*100] (0.88383000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.88383000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="103">
+    <Description>band 103 refl [%*100] (0.88899000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.88899000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="104">
+    <Description>band 104 refl [%*100] (0.89416000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.89416000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="105">
+    <Description>band*105 refl [%*100] (0.89931000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.89931000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="106">
+    <Description>band*106 refl [%*100] (0.90448000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.90448000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="107">
+    <Description>band*107 refl [%*100] (0.90964000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.90964000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="108">
+    <Description>band*108 refl [%*100] (0.91480000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="STATISTICS_MAXIMUM">6121</MDI>
+      <MDI key="STATISTICS_MEAN">2464.3533854167</MDI>
+      <MDI key="STATISTICS_MINIMUM">16</MDI>
+      <MDI key="STATISTICS_STDDEV">755.94789913889</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+      <MDI key="wavelength">0.91480000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="109">
+    <Description>band*109 refl [%*100] (0.91996000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.91996000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="110">
+    <Description>band*110 refl [%*100] (0.92512000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.92512000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="111">
+    <Description>band*111 refl [%*100] (0.93028000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.93028000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="112">
+    <Description>band*112 refl [%*100] (0.93544000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.93544000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="113">
+    <Description>band*113 refl [%*100] (0.94060000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.94060000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="114">
+    <Description>band*114 refl [%*100] (0.94576000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.94576000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="115">
+    <Description>band*115 refl [%*100] (0.95092000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.95092000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="116">
+    <Description>band*116 refl [%*100] (0.95609000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.95609000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="117">
+    <Description>band*117 refl [%*100] (0.96125000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.96125000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="118">
+    <Description>band*118 refl [%*100] (0.96641000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.96641000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="119">
+    <Description>band*119 refl [%*100] (0.97157000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.97157000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="120">
+    <Description>band*120 refl [%*100] (0.97673000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.97673000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="121">
+    <Description>band*121 refl [%*100] (0.98189000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.98189000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="122">
+    <Description>band*122 refl [%*100] (0.98705000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.98705000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="123">
+    <Description>band*123 refl [%*100] (0.99221000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.99221000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="124">
+    <Description>band 124 refl [%*100] (0.99737000)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">0.99737000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="125">
+    <Description>band 125 refl [%*100] (1.0025300)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">1.0025300</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="126">
+    <Description>band 126 refl [%*100] (1.0076900)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">1.0076900</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="127">
+    <Description>band 127 refl [%*100] (1.0128600)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">1.0128600</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="128">
+    <Description>band 128 refl [%*100] (1.0180200)</Description>
+    <NoDataValue>1.50000000000000E+04</NoDataValue>
+    <Metadata>
+      <MDI key="wavelength">1.0180200</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
