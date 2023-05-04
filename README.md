@@ -8,6 +8,8 @@
 
 `For Python installation pipenv virtual environment is used. To install you need pip and pipenv packages for Python.`
 
+`Only pip can be used or with virtualenv by installing packages from requirements.txt`
+
 Then run (you can specify python version with --python 3.x):
 
 ```properties

@@ -98,8 +98,8 @@ def run_exp1(data_folder, out_folder, iterations=10):
         img = np.load(os.path.join(exp1_folder, f"image_{i}.npy"))
 
         # Downscale images for testing purposes
-        # abd = abd[::10, ::10, :]
-        # img = img[::10, ::10, :]
+        abd = abd[::10, ::10, :]
+        img = img[::10, ::10, :]
 
         for func in functions:
             alg, res = func(endm, abd, img)
@@ -146,8 +146,8 @@ def run_exp2(data_folder, out_folder, iterations=1, noises=None):
             img = np.load(os.path.join(exp2_folder, f"image_{i}_{ns}.npy"))
 
             # Downscale images for testing purposes
-            # abd = abd[::10, ::10, :]
-            # img = img[::10, ::10, :]
+            abd = abd[::10, ::10, :]
+            img = img[::10, ::10, :]
 
             for func in functions:
                 alg, res = func(endm, abd, img)
@@ -190,8 +190,8 @@ def run_exp3(data_folder, out_folder, iterations=10, reduction=2):
         img = np.load(os.path.join(exp3_folder, f"image_{i}.npy"))
 
         # Downscale images for testing purposes
-        # abd = abd[::10, ::10, :]
-        # img = img[::10, ::10, :]
+        abd = abd[::10, ::10, :]
+        img = img[::10, ::10, :]
 
         for func in functions:
             alg, res = func(endm, abd, img)

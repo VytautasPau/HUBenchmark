@@ -6,18 +6,11 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-jupyterlab = "*"
 numpy = "*"
 sklearn = "*"
-tensorflow = "*"
-keras = "*"
-pillow = "*"
 scikit-image = "*"
 matplotlib = "*"
-torchvision = "*"
-torchsummary = "*"
 rasterio = "*"
-numba = "*"
 scikit-learn = "*"
 
 [pipenv]

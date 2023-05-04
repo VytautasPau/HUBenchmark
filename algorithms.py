@@ -2,9 +2,12 @@ import matlab.engine
 import numpy as np
 import matlab
 from sklearn.metrics import mean_squared_error
-import experiment
 from Algorithms.CNMF.CNMF import *
 
+
+def SRE(true, pred):
+    sre = np.linalg.norm(true)/np.linalg.norm(true-pred)
+    return 10*np.log10(sre)
 
 
 def sunsal(M, y, x_true):
@@ -27,7 +30,7 @@ def sunsal(M, y, x_true):
     try:
         ret = eng.sunsal(matlab.double(M.tolist()), matlab.double(y.tolist()))
         val = mean_squared_error(x_true, ret, squared=False)
-        sre = experiment.Experiment.SRE(x_true, ret)
+        sre = SRE(x_true, ret)
     except Exception as e:
         val = 0
         sre = e
@@ -59,7 +62,7 @@ def sunsal_tv(M, y, x_true, shape):
     try:
         ret = eng.sunsal_tv(matlab.double(M.tolist()), matlab.double(y.tolist()), "LAMBDA_TV", 0.05, "LAMBDA_1", 0.02, 'IM_SIZE', matlab.int64([shape[0], shape[1]]))
         val = mean_squared_error(x_true, ret, squared=False)
-        sre = experiment.Experiment.SRE(x_true, ret)
+        sre = SRE(x_true, ret)
     except Exception as e:
         ret = 0
         val = 0
@@ -89,7 +92,7 @@ def sgsnmf(M, y, x_true):
     try:
         W, H = eng.demo(matlab.double(y.tolist()), 6, 0.5, M.shape[1], 0.3, 0.05, 100, 600, nargout=2)
         val = mean_squared_error(x_true, H, squared=False)
-        sre = experiment.Experiment.SRE(x_true, H)
+        sre = SRE(x_true, H)
     except Exception as e:
         H = 0
         W = 0
@@ -122,7 +125,7 @@ def s2wsu(M, y, x_true, shape):
         ret = eng.sunsal_tv_lw_sp(matlab.double(M.tolist()), matlab.double(y.tolist()), 'AL_ITERS',params['itera'], 'LAMBDA_1', params['lmb'],
                      'POSITIVITY', params['pos'], 'ADDONE', params['one'], 'IM_SIZE', matlab.int64([shape[0], shape[1]]), 'MU', params['mu'])
         val = mean_squared_error(x_true, ret, squared=False)
-        sre = experiment.Experiment.SRE(x_true, ret)
+        sre = SRE(x_true, ret)
     except Exception as e:
         val = 0
         sre = e
@@ -151,7 +154,7 @@ def rsnmf(M, y, x_true):
     try:
         W, H = eng.demo(matlab.double(y.tolist()), M.shape[1], 1000, 1e-6, 20,  0.01, 100, 0.02 , nargout=2)
         val = mean_squared_error(x_true, H, squared=False)
-        sre = experiment.Experiment.SRE(x_true, H)
+        sre = SRE(x_true, H)
     except Exception as e:
         H = 0
         W = 0
@@ -182,7 +185,7 @@ def rconmf(M, y, x_true):
     try:
         A, X, err, L = eng.demo_nopam(matlab.double(y.tolist()), M.shape[1], nargout=4)
         val = mean_squared_error(x_true, X, squared=False)
-        sre = experiment.Experiment.SRE(x_true, X)
+        sre = SRE(x_true, X)
     except Exception as e:
         A = 0
         X = 0
@@ -226,7 +229,7 @@ def almm(M, y, x_true, L, p, shape):
               float(L), float(p), shape[0], shape[1], 100, 0.002, 0.002, 0.005, 0.005)
         res = np.nan_to_num(res)
         val = mean_squared_error(x_true, res, squared=False)
-        sre = experiment.Experiment.SRE(x_true, res)
+        sre = SRE(x_true, res)
     except Exception as e:
         res = 0
         val = 0
@@ -312,7 +315,7 @@ def cnmf(M, y, x_true, shape):
                     print('END')
                 break
         val = mean_squared_error(x_true, H_hyper, squared=False)
-        sre = experiment.Experiment.SRE(x_true, H_hyper)
+        sre = SRE(x_true, H_hyper)
     except Exception as e:
         val = 0
         sre = e
